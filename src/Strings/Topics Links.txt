@@ -1,0 +1,5 @@
+https://www.geeksforgeeks.org/interning-of-string/
+
+https://www.geeksforgeeks.org/string-constant-pool-in-java/
+
+Strings in java are immutable.
